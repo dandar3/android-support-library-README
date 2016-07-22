@@ -1,7 +1,6 @@
 **Android Support Library**<br/>
 https://developer.android.com/topic/libraries/support-library/
-
---
+<br/>
 
 Android Support v24.1.1 components available here and libraries you need to take:
 
@@ -25,8 +24,7 @@ Android Support v24.1.1 components available here and libraries you need to take
 (https://github.com/dandar3/android-support-annotations/archive/24.1.1.zip)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
-
---
+<br/>
 
 #### Percent
 &#160;&#160;&#160;&#160;&#160;
