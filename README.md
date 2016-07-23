@@ -186,17 +186,12 @@ Android Support v24.1.1 components available here and libraries you need to take
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-
+--
  
- --
+## Other guides
  
- ## Other guides
+### How to Install Subversive SVN Plug-In in Eclipse - Official Guide<br/>
+[(https://img.youtube.com/vi/04L4rkykWZw/0.jpg)](https://www.youtube.com/watch?v=04L4rkykWZw)
  
- ### How to Install Subversive SVN Plug-In in Eclipse - Official Guide<br/>
- [(https://img.youtube.com/vi/04L4rkykWZw/0.jpg)](https://www.youtube.com/watch?v=04L4rkykWZw)
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/04L4rkykWZw/0.jpg)](https://www.youtube.com/watch?v=04L4rkykWZw)
- 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=04L4rkykWZw
-" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=04L4rkykWZw" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" /></a>
  
