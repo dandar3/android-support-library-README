@@ -7,9 +7,10 @@ Android Support v24.1.1 components available here and libraries you need to take
 
 #### Design + AppCompat
 &#160;&#160;&#160;&#160;&#160;
-1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" alt="Library project (click to download)" align="top" />]
-[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" alt="SVN tag URL (right-click  to copy)" align="top" />]  
+1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-design/archive/24.1.1.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-support-design/tags/24.1.1)
 [android-support-design]
 (https://github.com/dandar3/android-support-design/tree/24.1.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
