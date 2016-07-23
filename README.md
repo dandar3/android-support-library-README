@@ -190,7 +190,5 @@ Android Support v24.1.1 components available here and libraries you need to take
  
 ### Other guides
  
-#### How to Install Subversive SVN Plug-In in Eclipse - Official Guide<br/>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=04L4rkykWZw" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" /></a>
+- #### (YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide<br/>
+  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
