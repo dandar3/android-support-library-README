@@ -260,5 +260,14 @@ Android Support v24.1.1 components available here and libraries you need to take
  
 ### Other guides
  
+- **How to install  Android 1.6 (API 4) SDK**<br/>
+<br/>
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing%20Android%201.6%20%28API%204%29%20SDK.png" />
+
+- **How to install  Android 2.1 (API 7) SDK**<br/>
+<br/>
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing%20Android%202.1%20%28API%207%29%20SDK.png" />
+ 
 - **(YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide**<br/>
+</br>
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
