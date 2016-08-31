@@ -5,7 +5,7 @@ https://developer.android.com/topic/libraries/support-library/
 
 Android Support Library **24.1.1** components available here and libraries you need to take:
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-appcompat/24.1.1/.projectset) &#160;AppCompat
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-appcompat/24.1.1/.projectset) &#160;AppCompat
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-appcompat/archive/24.1.1.zip)
@@ -348,16 +348,20 @@ Android Support Library **24.1.1** components available here and libraries you n
 
 --
  
-### Other guides
+### Guides
  
-- **How to install  Android 1.6 (API 4) SDK**<br/>
+- **Install SDK Platform & Build Tools 24.x.x**<br/>
 <br/>
-<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing%20Android%201.6%20%28API%204%29%20SDK.png" />
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/InstallingInstalling Android SDK Platform & Build Tools 24.x.x" />
 
-- **How to install  Android 2.1 (API 7) SDK**<br/>
+- **Install Android 7.0 (API 24) SDK**<br/>
 <br/>
-<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing%20Android%202.1%20%28API%207%29%20SDK.png" />
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.0 (API 24) SDK.png" />
  
 - **(YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide**<br/>
 </br>
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
+
+- **(YouTube) Import a Team Project Set into Eclipse**<br/>
+  Note <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" /> links in front of each group above.
+  [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
