@@ -1,9 +1,9 @@
-**Android Support Library**<br/>
+**Android Support Library - Overview**<br/>
 https://developer.android.com/topic/libraries/support-library/
 
 --
 
-Android Support **24.1.1** components available here and libraries you need to take:
+Android Support Library **24.1.1** components available here and libraries you need to take:
 
 #### Design + AppCompat
 &#160;&#160;&#160;&#160;&#160;
@@ -47,7 +47,7 @@ Android Support **24.1.1** components available here and libraries you need to t
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### CardView
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project Set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-cardview/24.1.1/.projectset) CardView
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-cardview/archive/24.1.1.zip)
