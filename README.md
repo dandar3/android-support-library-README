@@ -56,7 +56,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### Design
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project Set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-design/24.1.1/.projectset) &#160;Design
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-design/archive/24.1.1.zip)
