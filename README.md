@@ -91,6 +91,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 (https://github.com/dandar3/android-support-animated-vector-drawable/tags/24.1.1)
 [android-support-animated-vector-drawable]
 (https://github.com/dandar3/android-support-animated-vector-drawable/tree/24.1.1) (optional)<br/>
+&#160;&#160;&#160;&#160;&#160;
 5. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-recyclerview/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
