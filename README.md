@@ -352,7 +352,7 @@ Android Support Library **24.1.1** components available here and libraries you n
  
 - **Install SDK Platform & Build Tools 24.x.x**<br/>
 <br/>
-<img src="https://raw.github.com/wiki/dandar3/android-support-README/InstallingInstalling Android SDK Platform & Build Tools 24.x.x" />
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/InstallingInstallingInstalling Android SDK Platform & Build Tools 24.x.x.png" />
 
 - **Install Android 7.0 (API 24) SDK**<br/>
 <br/>
@@ -363,5 +363,5 @@ Android Support Library **24.1.1** components available here and libraries you n
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
 
 - **(YouTube) Import a Team Project Set into Eclipse**<br/>
-  Note the links on <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
+  Note the links on the <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
   [![IMAGE ALT TEXT HERE](https://www.youtube.com/vi/t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
