@@ -40,7 +40,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-cardview/24.1.1/.projectset) &#160;CardView
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-cardview/24.1.1/.projectset) &#160;CardView
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-cardview/archive/24.1.1.zip)
@@ -56,7 +56,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-design/24.1.1/.projectset) &#160;Design
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-design/24.1.1/.projectset) &#160;Design
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-design/archive/24.1.1.zip)
@@ -105,7 +105,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-gridlayout/24.1.1/.projectset) &#160;GridLayout
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-gridlayout/24.1.1/.projectset) &#160;GridLayout
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-gridlayout/archive/24.1.1.zip)
@@ -127,7 +127,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-mediarouter/24.1.1/.projectset) &#160;MediaRouter
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-mediarouter/24.1.1/.projectset) &#160;MediaRouter
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-mediarouter/archive/24.1.1.zip)
@@ -175,7 +175,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-palette/24.1.1/.projectset) &#160;Palette
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-palette/24.1.1/.projectset) &#160;Palette
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-palette/archive/24.1.1.zip)
@@ -197,7 +197,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-percent/24.1.1/.projectset) &#160;Percent
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-percent/24.1.1/.projectset) &#160;Percent
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-percent/archive/24.1.1.zip)
@@ -219,7 +219,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-preference/24.1.1/.projectset) &#160;Preference (v7)
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-preference/24.1.1/.projectset) &#160;Preference (v7)
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-preference/archive/24.1.1.zip)
@@ -268,7 +268,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v14-preference/24.1.1/.projectset) &#160;Preference (v14)
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v14-preference/24.1.1/.projectset) &#160;Preference (v14)
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v14-preference/archive/24.1.1.zip)
@@ -324,7 +324,7 @@ Android Support Library **24.1.1** components available here and libraries you n
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-recyclerview/24.1.1/.projectset) &#160;RecyclerView
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-recyclerview/24.1.1/.projectset) &#160;RecyclerView
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-recyclerview/archive/24.1.1.zip)
@@ -363,5 +363,5 @@ Android Support Library **24.1.1** components available here and libraries you n
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/04L4rkykWZw/0.jpg)](http://www.youtube.com/watch?v=04L4rkykWZw)
 
 - **(YouTube) Import a Team Project Set into Eclipse**<br/>
-  Note <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" /> links in front of each group above.
-  [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
+  Note the links on <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
+  [![IMAGE ALT TEXT HERE](https://www.youtube.com/vi/t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
