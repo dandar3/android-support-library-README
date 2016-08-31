@@ -130,39 +130,45 @@ Android Support Library **24.1.1** components available here and libraries you n
 #### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-mediarouter/24.1.1/.projectset) &#160;MediaRouter
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+(https://github.com/dandar3/android-support-v7-mediarouter/archive/24.1.1.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
+(https://github.com/dandar3/android-support-v7-mediarouter/tags/24.1.1)
+[android-support-v7-mediarouter](https://github.com/dandar3/android-support-v7-mediarouter/tree/24.1.1)<br/>
+&#160;&#160;&#160;&#160;&#160;
+2. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-appcompat/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-v7-appcompat/tags/24.1.1)
 [android-support-v7-appcompat](https://github.com/dandar3/android-support-v7-appcompat/tree/24.1.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-2. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+3. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-vector-drawable/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-vector-drawable/tags/24.1.1)
 [android-support-vector-drawable]
 (https://github.com/dandar3/android-support-vector-drawable/tree/24.1.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-3. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+4. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-animated-vector-drawable/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-animated-vector-drawable/tags/24.1.1)
 [android-support-animated-vector-drawable]
 (https://github.com/dandar3/android-support-animated-vector-drawable/tree/24.1.1) (optional)<br/>
 &#160;&#160;&#160;&#160;&#160;
-4. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+5. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-palette/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-v7-palette/tags/24.1.1)
 [android-support-v7-palette]
 (https://github.com/dandar3/android-support-v7-palette/tree/24.1.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-5. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+6. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v4/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-v4/tags/24.1.1)
 [android-support-v4](https://github.com/dandar3/android-support-v4/tree/24.1.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-6. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+7. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-annotations/tags/24.1.1)
