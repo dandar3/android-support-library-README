@@ -364,4 +364,4 @@ Android Support Library **24.1.1** components available here and libraries you n
 
 - **(YouTube) Import a Team Project Set into Eclipse**<br/>
   Note the links on the <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
-  [![IMAGE ALT TEXT HERE](https://www.youtube.com/vi/t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t757XHPo2ZQ/0.jpg)](https://www.youtube.com/watch?v=t757XHPo2ZQ)
