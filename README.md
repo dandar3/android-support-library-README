@@ -165,26 +165,32 @@ Android Support Library **24.2.0** components available here and libraries you n
 [android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/24.2.0)<br/>
 
 #### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-gridlayout/24.2.0/.projectset) &#160;GridLayout
-&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v7-gridlayout/archive/24.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-v7-gridlayout/tags/24.2.0)
 [android-support-v7-gridlayout]
 (https://github.com/dandar3/android-support-v7-gridlayout/tree/24.2.0)<br/>
-&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;
 2. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
-(https://github.com/dandar3/android-support-v4/archive/24.2.0.zip)
-[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
-(https://github.com/dandar3/android-support-v4/tags/24.2.0)
-[android-support-v4](https://github.com/dandar3/android-support-v4/tree/24.2.0)<br/>
-&#160;&#160;&#160;&#160;&#160;
-3. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/24.2.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-annotations/tags/24.2.0)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.2.0)<br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+3. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-compat ZIP (click to download)" align="top" />]
+(https://github.com/dandar3/android-support-compat/archive/24.2.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
+(https://github.com/dandar3/android-support-compat/tags/24.2.0)
+[android-support-compat](https://github.com/dandar3/android-support-compat/tree/24.2.0)<br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+4. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-core-ui ZIP (click to download)" align="top" />]
+(https://github.com/dandar3/android-support-core-ui/archive/24.2.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
+(https://github.com/dandar3/android-support-core-ui/tags/24.2.0)
+[android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/24.2.0)<br/>
 
 #### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-mediarouter/24.2.0/.projectset) &#160;MediaRouter
 &#160;&#160;&#160;&#160;&#160;
