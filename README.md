@@ -1,6 +1,9 @@
 **Android Support Library - Overview**<br/>
 https://developer.android.com/topic/libraries/support-library/
 
+**Support Library 24.2.0 Available Now**<br/>
+https://plus.google.com/+IanLake/posts/NwdzkCkqeuz
+
 --
 
 # WORK IN PROGRESS - DO NOT USE YET
