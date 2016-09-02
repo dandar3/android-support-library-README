@@ -6,8 +6,6 @@ https://plus.google.com/+IanLake/posts/NwdzkCkqeuz
 
 --
 
-# WORK IN PROGRESS - DO NOT USE YET
-
 Android Support Library **24.2.0** components available here and libraries you need to take:
 
 #### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-appcompat/24.2.0/.projectset) &#160;AppCompat
