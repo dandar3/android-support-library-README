@@ -1,6 +1,9 @@
 **Android Support Library - Overview**<br/>
 https://developer.android.com/topic/libraries/support-library/
 
+**Android Support Library - Revision History**<br/>
+https://developer.android.com/topic/libraries/support-library/revisions.html
+
 --
 
 Android Support Library **24.2.1** components available here and libraries you need to take:
