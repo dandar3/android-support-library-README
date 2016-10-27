@@ -167,6 +167,12 @@ Android Support Library **25.0.0** components available here and libraries you n
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-media-compat/tags/25.0.0)
 [android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/25.0.0)<br/>
+&#160;&#160;&#160;&#160;&#160;
+13. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+(https://github.com/dandar3/android-support-transition/archive/25.0.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
+(https://github.com/dandar3/android-support-transition/tags/25.0.0)
+[android-support-transition](https://github.com/dandar3/android-support-transition/tree/25.0.0)<br/>
 
 #### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-support-v7-gridlayout/25.0.0/.projectset) &#160;GridLayout
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
