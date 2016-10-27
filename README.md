@@ -537,13 +537,13 @@ X. [<img src="https://github.com/google/material-design-icons/blob/master/file/1
  
 ### Guides
  
-- **Install SDK Platform & Build Tools 24.x.x**<br/>
+- **Install SDK Platform & Build Tools 25.x.x**<br/>
 <br/>
-<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android SDK Platform & Build Tools 24.x.x.png" />
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android SDK Platform & Build Tools 25.x.x.png" />
 
-- **Install Android 7.0 (API 24) SDK**<br/>
+- **Install Android 7.1 (API 25) SDK**<br/>
 <br/>
-<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.0 (API 24) SDK.png" />
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.1 (API 25) SDK.png" />
  
 - **(YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide**<br/>
 </br>
