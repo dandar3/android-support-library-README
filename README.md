@@ -2,7 +2,7 @@
 https://developer.android.com/topic/libraries/support-library/
 
 **Android Support Library - Revision History**<br/>
-https://developer.android.com/topic/libraries/support-library/revisions.html#rev25-1-1
+https://developer.android.com/topic/libraries/support-library/revisions.html#25-1-1
 
 --
 
