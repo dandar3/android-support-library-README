@@ -152,9 +152,9 @@ X. [<img src="https://github.com/google/material-design-icons/blob/master/file/1
  
 - **(YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide**<br/>
 </br>
-[<img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" />](http://www.youtube.com/watch?v=04L4rkykWZw)
+<a href="http://www.youtube.com/watch?v=04L4rkykWZw" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" /></a>
 
 - **(YouTube) How to import Android libraries into your Eclipse workspace**<br/>
   Also note the links on the <img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" align="top" /> icons in front of each group.<br/>
 <br/>
-[<img src="https://img.youtube.com/vi/ytRSnjp56tA/0.jpg" />](https://www.youtube.com/watch?v=ytRSnjp56tA)
+<a href="http://www.youtube.com/watch?v=ytRSnjp56tA" target="_blank"><img src="http://img.youtube.com/vi/ytRSnjp56tA/0.jpg" /></a>
