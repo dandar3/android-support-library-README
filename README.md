@@ -142,16 +142,14 @@ X. [<img src="https://github.com/google/material-design-icons/blob/master/file/1
  
 ### Guides
  
-- **Install SDK Platform & Build Tools 25.x.x**<br/>
-<br/>
+#### Install SDK Platform & Build Tools 25.x.x
 <img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android SDK Platform & Build Tools 25.x.x.png" />
 
-- **Install Android 7.1 (API 25) SDK**<br/>
-<br/>
+#### Install Android 7.1 (API 25) SDK
 <img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.1 (API 25) SDK.png" />
  
-### (YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide
+#### (YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide
 <a href="http://www.youtube.com/watch?v=04L4rkykWZw" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" /></a>
 
-### (YouTube) How to import Android libraries into your Eclipse workspace
+#### (YouTube) How to import Android libraries into your Eclipse workspace
 <a href="http://www.youtube.com/watch?v=ytRSnjp56tA" target="_blank"><img src="http://img.youtube.com/vi/ytRSnjp56tA/0.jpg" /></a>
