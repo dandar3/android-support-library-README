@@ -1,12 +1,12 @@
 **Android Support Library - Overview**<br/>
 https://developer.android.com/topic/libraries/support-library/
 
-<blockquote><b>Caution<b/>: Starting with Support Library release 26.0.0 (July 2017), the minimum supported API level across most support libraries has increased to Android 4.0 (API level 14) for most library packages. For more information, see <a href="https://developer.android.com/topic/libraries/support-library/index.html#api-versions">Version Support and Package Names</a> in this document. 
-
-Some of the Support Library packages have package names to indicate the minimum level of the API they originally supported, using a v# notation, such as the support-v4 package. Starting with Support Library version 26.0.0 (released in July 2017), the minimum supported API level has changed to Android 4.0 (API level 14) for all support library packages. For this reason, when working with any recent release of the support library, you should not assume that the the v# package notation indicates a minimum API support level. This change in recent releases also means that library packages with the v4 and v7 are essentially equivalent in the minimum level of API they support. For example, the support-v4 and the support-v7 package both support a minimum API level of 14, for releases of the Support Library from 26.0.0 and higher.</blockquote>
-
 **Android Support Library - Revision History**<br/>
 https://developer.android.com/topic/libraries/support-library/revisions.html#26-0-0
+
+> <b>Caution</b>: Starting with Support Library release 26.0.0 (July 2017), the minimum supported API level across most support libraries has increased to Android 4.0 (API level 14) for most library packages. For more information, see <a href="https://developer.android.com/topic/libraries/support-library/index.html#api-versions">Version Support and Package Names</a> in this document. 
+
+> Some of the Support Library packages have package names to indicate the minimum level of the API they originally supported, using a v# notation, such as the support-v4 package. Starting with Support Library version 26.0.0 (released in July 2017), the minimum supported API level has changed to Android 4.0 (API level 14) for all support library packages. For this reason, when working with any recent release of the support library, you should not assume that the the v# package notation indicates a minimum API support level. This change in recent releases also means that library packages with the v4 and v7 are essentially equivalent in the minimum level of API they support. For example, the support-v4 and the support-v7 package both support a minimum API level of 14, for releases of the Support Library from 26.0.0 and higher.
 
 ---
 
