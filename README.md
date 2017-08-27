@@ -148,7 +148,7 @@ X. [<img src="https://github.com/google/material-design-icons/blob/master/file/1
 #### Install SDK Platform & Build Tools 26.x.x
 <img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android SDK Platform & Build Tools 26.x.x.png" />
 
-#### Install Android 7.1 (API 25) SDK
+#### Install Android 8.0 (API 26) SDK
 <img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 8.0 (API 26) SDK.png" />
  
 #### (YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide
